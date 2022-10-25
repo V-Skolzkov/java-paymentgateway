@@ -1,0 +1,3 @@
+{"invoice":1,"amount":1,"currency":"EUR","cardholder":{"name":"**********","email":"email@domain.com"},"card":{"pan":"************9904","expiry":"****"}}
+{"invoice":2,"amount":2,"currency":"EUR","cardholder":{"name":"**********","email":"email@domain.com"},"card":{"pan":"************9904","expiry":"****"}}
+{"invoice":3,"amount":3,"currency":"EUR","cardholder":{"name":"**********","email":"email@domain.com"},"card":{"pan":"************9904","expiry":"****"}}
